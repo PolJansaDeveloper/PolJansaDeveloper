@@ -1,5 +1,10 @@
 # 👋 Hola, soy Pol Jansa Sierra
 
+<p align="center">
+  <img src="banner.png" alt="PJDev Android Developer" width="800"/>
+</p>
+
+
 ![Profile Badge](https://img.shields.io/badge/Android-Developer-brightgreen?style=for-the-badge&logo=android)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-100%25-blue?style=for-the-badge&logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-purple?style=for-the-badge)
