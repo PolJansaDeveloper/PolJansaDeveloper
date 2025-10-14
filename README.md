@@ -12,7 +12,7 @@ Me apasiona construir aplicaciones móviles **escalables**, con una **experienci
 
 ---
 
-### 🧩 Mi trayectoria  
+### 💼 Mi trayectoria  
 
 Mi carrera comenzó en el ámbito **deportivo**, donde cursé un **Grado Medio y Superior en Actividades Físicas y Deportivas**, además de la **Licenciatura en Ciencias de la Actividad Física y del Deporte**.  
 Durante más de **10 años** trabajé como **entrenador personal**, **profesor de esquí**, **gestor deportivo** y **jugador profesional de hockey**, experiencias que me enseñaron el valor del **trabajo en equipo**, la **disciplina** y la **mejora continua**.  
@@ -30,26 +30,20 @@ Recientemente he completado un **Máster en Desarrollo Móvil para Android**, y 
 
 ---
 
-### 💪 En resumen  
-
-> 🎯 **Perfil multidisciplinar**, con una base sólida en deporte, tecnología y liderazgo.  
-> 💻 **Enfocado en la excelencia técnica** y la mejora continua.  
-> 🚀 **Altamente motivado** por crecer, aprender y construir soluciones que marquen la diferencia.
-
-
-
----
-
-## 🔭 Actualmente
-
-Desarrollando una **app privada** enfocada en [dominio/funcionalidad].  
-Pronto habrá más repositorios públicos con demos y ejercicios.
+> 🎯 **Perfil multidisciplinar, con una base sólida en deporte, tecnología y liderazgo.**
+> 💻 **Enfocado en la excelencia técnica y la mejora continua.**  
+> 🚀 **Altamente motivado por crecer, aprender y construir soluciones que marquen la diferencia.**
 
 ---
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PolJansa-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pol-jansa-sierra)  
-✉️ poljansa.developer@gmail.com  
+📧 [poljansa.developer@gmail.com](mailto:poljansa.developer@gmail.com)  
+🌐 [Portfolio](https://poljansadev.netlify.app)  
+💼 [LinkedIn](https://www.linkedin.com/in/pol-jansà-sierra)
 
 ⭐ Abierto a colaboraciones y oportunidades como **Android Developer**
+
+---
+<p align="center"><sub>© 2025 PJDev — Striving for excellence in mobile development.</sub></p>
+
