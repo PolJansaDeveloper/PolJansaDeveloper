@@ -5,13 +5,38 @@
   <img src="banner.png" alt="PJDev Android Developer" width="800"/>
 </p>
 
+### 👨‍💻 Sobre mí  
 
-![Profile Badge](https://img.shields.io/badge/Android-Developer-brightgreen?style=for-the-badge&logo=android)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-100%25-blue?style=for-the-badge&logo=kotlin)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-purple?style=for-the-badge)
+Soy **Android Developer** especializado en **Java**, **Kotlin**, **Jetpack Compose**, **Firebase** y **arquitecturas limpias** (MVVM / Clean Architecture).  
+Me apasiona construir aplicaciones móviles **escalables**, con una **experiencia de usuario cuidada** y un **código limpio y mantenible**.  
 
-Soy **Android Developer** especializado en **Java**, **Kotlin**, **Jetpack Compose**, **FireBase** y **arquitecturas limpias** (MVVM / Clean Architecture).  
-Me apasiona construir aplicaciones móviles escalables, con un **UX cuidado** y código mantenible.
+---
+
+### 🧩 Mi trayectoria  
+
+Mi carrera comenzó en el ámbito **deportivo**, donde cursé un **Grado Medio y Superior en Actividades Físicas y Deportivas**, además de la **Licenciatura en Ciencias de la Actividad Física y del Deporte**.  
+Durante más de **10 años** trabajé como **entrenador personal**, **profesor de esquí**, **gestor deportivo** y **jugador profesional de hockey**, experiencias que me enseñaron el valor del **trabajo en equipo**, la **disciplina** y la **mejora continua**.  
+
+A los **28 años**, decidí dar un giro profesional para seguir otra de mis grandes pasiones: la **tecnología**. Completé un **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**, consolidando mi base técnica y adentrándome en el ecosistema **Android**, donde encontré mi auténtico camino.  
+
+---
+
+### 🌍 Experiencia y visión  
+
+Durante los últimos años he tenido la oportunidad de **viajar por el mundo**, explorando diferentes culturas y sectores, lo que amplió mi **visión global** y me ayudó a **perfeccionar mi inglés**.  
+Esta etapa me permitió absorber ideas, inspirarme en distintas formas de trabajar y fortalecer mi mentalidad abierta y creativa.  
+
+Recientemente he completado un **Máster en Desarrollo Móvil para Android**, y actualmente busco **nuevos retos y proyectos** donde pueda **seguir creciendo profesionalmente**, **aportar valor a un equipo innovador** y **seguir aprendiendo cada día**.  
+
+---
+
+### 💪 En resumen  
+
+> 🎯 **Perfil multidisciplinar**, con una base sólida en deporte, tecnología y liderazgo.  
+> 💻 **Enfocado en la excelencia técnica** y la mejora continua.  
+> 🚀 **Altamente motivado** por crecer, aprender y construir soluciones que marquen la diferencia.
+
+
 
 ---
 
@@ -21,17 +46,6 @@ Desarrollando una **app privada** enfocada en [dominio/funcionalidad].
 Pronto habrá más repositorios públicos con demos y ejercicios.
 
 ---
-
-### Testing
-![JUnit](https://img.shields.io/badge/JUnit-Testing-25A162?style=for-the-badge)
-![MockK](https://img.shields.io/badge/MockK-Mocking-FC5185?style=for-the-badge)
-![Espresso](https://img.shields.io/badge/Espresso-UI Testing-6A1B9A?style=for-the-badge)
-
-### Herramientas
-![Android Studio](https://img.shields.io/badge/Android_Studio-IDE-3DDC84?style=for-the-badge)
-![Gradle](https://img.shields.io/badge/Gradle-Build Tool-02303A?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-FFA611?style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge)
 
 ## 📫 Contacto
 
