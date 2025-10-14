@@ -1,4 +1,4 @@
-# 👋 Hola, soy Pol Jansa Sierra <img src="logo-pjdev.png" alt="PJDev Logo" width="60" style="vertical-align: middle; margin-left: 10px;"/>
+# 👋 Hola, soy Pol Jansa Sierra 
 
 
 <p align="center">
