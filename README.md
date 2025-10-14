@@ -30,9 +30,10 @@ Recientemente he completado un **Máster en Desarrollo Móvil para Android**, y 
 
 ---
 
-> 🎯 **Perfil multidisciplinar, con una base sólida en deporte, tecnología y liderazgo.**
-> 💻 **Enfocado en la excelencia técnica y la mejora continua.**  
-> 🚀 **Altamente motivado por crecer, aprender y construir soluciones que marquen la diferencia.**
+> 🎯 **Perfil multidisciplinar**, con una base sólida en deporte, tecnología y liderazgo.  
+> 💻 **Enfocado en la excelencia técnica** y la mejora continua.  
+> 🚀 **Altamente motivado** por crecer, aprender y construir soluciones que marquen la diferencia.
+
 
 ---
 
