@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="logo-pjdev.png" alt="logopjdev" width="800"/>
+  <img src="LogoPJDev.png" alt="logopjdev" width="800"/>
 </p>
 
 ### 👨‍💻 Sobre mí  
