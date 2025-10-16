@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="banner.png" alt="PJDev Android Developer" width="800"/>
+  <img src="banner.png" alt="logopjdev" width="800"/>
 </p>
 
 ### 👨‍💻 Sobre mí  
